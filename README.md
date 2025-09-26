@@ -16,9 +16,6 @@ All APIs were tested using **Postman** and automated with **Newman**, with detai
 ## 📂 Repository Structure
 ```
 jacobgerken-api-testing/
-│── postman/
-│   ├── JacobGerken.postman_collection.json    # Postman collection
-│   ├── JacobGerken.postman_environment.json   # Environment file
 │── reports/
 │   ├── newman-auth-user-report.html           # Newman HTML report
 │   └── test-report-google-sheet-link.txt      # Reference to Google Sheet
